@@ -34,8 +34,7 @@ Users should be able to:
 - **Bonus**: See the age numbers animate to their final number when the form is submitted
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![Screenshot (9)](https://user-images.githubusercontent.com/54478287/230715794-5d596583-2ce6-4b23-a539-a2e1cafda302.png)
 
 ### Links
 
