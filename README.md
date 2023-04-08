@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- CodeSandbox: [URL](https://your-solution-url.com)
-- Live Site: [URL](https://your-live-site-url.com)
+- CodeSandbox: [URL](https://codesandbox.io/s/age-calculator-otyglu)
+- Live Site: [URL](https://age-calculator-challenge.netlify.app/)
 
 ## My process
 
